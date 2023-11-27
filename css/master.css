@@ -992,6 +992,7 @@ flex-direction: column;
         padding-top: var(--main-padding-top);
         padding-bottom: var(--main-padding-bottom);
         overflow: hidden;
+        position: relative;
     }
     .events .container{
         display: flex;
